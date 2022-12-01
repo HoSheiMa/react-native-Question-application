@@ -7,5 +7,5 @@ App give you some random questions with great design
 <a href="https://api.whatsapp.com/send?phone=201207425745"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" /></a>
 
 # design
+<img src="https://github.com/HoSheiMa/react-native-Question-application/blob/main/freelancer.png?raw=true" />
 
-<img src"https://github.com/HoSheiMa/react-native-Question-application/blob/main/freelancer.png?raw=true" >
